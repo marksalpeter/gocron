@@ -1,4 +1,4 @@
-This package is currently looking for new maintainers. Please message @jasonlvhit if you are interested.
+This is an re-implementation of the gocron package currently used in production at Dealyze. The test coverage is poor, so we make no promises or guarentees. In the future we will add support for synchronicity across multiple vms.
 
 ## goCron: A Golang Job Scheduling Package.
 
